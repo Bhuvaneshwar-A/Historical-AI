@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+motor
+pymongo
+polars
+numpy
+pytz
+orjson
+aiohttp  
+threadpoolctl
+python-multipart
